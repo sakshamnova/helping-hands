@@ -1,4 +1,3 @@
-#Helping Hands
 Helping Hands is a web development project aimed at providing an end-to-end solution for hiring individuals on a temporary basis for day-to-day tasks. Leveraging location-based services, Helping Hands connects users with local individuals available to assist with various tasks, ranging from household chores to errands and more.
 
 Technologies Used
